@@ -14,18 +14,3 @@ you must install WiringPi http://wiringpi.com/download-and-install/.
 Testing Application video : http://youtu.be/GZCyObydsfE
 
 
- 
- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-                                       Developer: Taha Emara
-
-
-   Youtube Cahnnel  :  http://www.youtube.com/user/omar0103637
-
-   Website          : http://www.emaraic.com
-   
-   Linkedin Profile :  http://eg.linkedin.com/pub/taha-emara/a4/1ab/524/
-
-   E-mail:          :  taha@emaraic.com
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
